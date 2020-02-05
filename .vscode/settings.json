@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "theia-file-icons",
+    "go.autocompleteUnimportedPackages": true,
+    "go.formatTool": "goimports",
+    "go.liveErrors": {
+        "enabled": false,
+        "delay": 500
+    },
+    "go.testOnSave": true,
+    "editor.formatOnSave": true,
+    "go.useLanguageServer": true,
+}
