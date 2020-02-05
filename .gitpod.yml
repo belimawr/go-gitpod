@@ -1,0 +1,11 @@
+image:
+  file: .gitpod.Dockerfile
+
+image: gitpod/workspace-full
+
+tasks:
+  - init: go mod download
+
+vscode:
+  extensions:
+    - ms-vscode.Go@0.13.0:kuIqjvce58EYJk3DhQ9g9A==
